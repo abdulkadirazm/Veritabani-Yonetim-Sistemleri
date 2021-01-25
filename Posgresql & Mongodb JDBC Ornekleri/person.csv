@@ -1,0 +1,10 @@
+_id,name,gender,parentID,id
+60060814bf291e1688ac2196,Ali,Erkek,null,1
+60060814bf291e1688ac2197,Ayşe,Kadın,null,2
+60060814bf291e1688ac2198,Zeynep,Kadın,1,3
+60060814bf291e1688ac2199,Mustafa,Erkek,1,4
+60060814bf291e1688ac219a,Cafer,Erkek,4,5
+60060814bf291e1688ac219b,Mithat,Erkek,5,6
+60060814bf291e1688ac219c,Nermin,Kadın,1,7
+60060814bf291e1688ac219d,Elif,Kadın,5,8
+60060814bf291e1688ac219e,Senem,Kadın,6,9

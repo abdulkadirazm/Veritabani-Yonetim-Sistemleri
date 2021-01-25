@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "60060814bf291e1688ac2196"
+  },
+  "name": "Ali",
+  "gender": "Erkek",
+  "parentID": null,
+  "id": "1"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac2197"
+  },
+  "name": "Ayşe",
+  "gender": "Kadın",
+  "parentID": null,
+  "id": "2"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac2198"
+  },
+  "name": "Zeynep",
+  "gender": "Kadın",
+  "parentID": 1,
+  "id": "3"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac2199"
+  },
+  "name": "Mustafa",
+  "gender": "Erkek",
+  "parentID": 1,
+  "id": "4"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac219a"
+  },
+  "name": "Cafer",
+  "gender": "Erkek",
+  "parentID": 4,
+  "id": "5"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac219b"
+  },
+  "name": "Mithat",
+  "gender": "Erkek",
+  "parentID": 5,
+  "id": "6"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac219c"
+  },
+  "name": "Nermin",
+  "gender": "Kadın",
+  "parentID": 1,
+  "id": "7"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac219d"
+  },
+  "name": "Elif",
+  "gender": "Kadın",
+  "parentID": 5,
+  "id": "8"
+},{
+  "_id": {
+    "$oid": "60060814bf291e1688ac219e"
+  },
+  "name": "Senem",
+  "gender": "Kadın",
+  "parentID": 6,
+  "id": "9"
+}]
