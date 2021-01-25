@@ -28,4 +28,5 @@
 * [Örnek Uygulamalar](https://github.com/abdulkadirazm/Veritabani-Yonetim-Sistemleri/blob/main/Posgresql%20%26%20Mongodb%20JDBC%20Ornekleri/VT-NNNNNNNN-HW5.pdf)
 * [Çözümleri](https://github.com/abdulkadirazm/Veritabani-Yonetim-Sistemleri/blob/main/Posgresql%20%26%20Mongodb%20JDBC%20Ornekleri/VT-SOLUTION-HW5.pdf)
 * [Proje Dosyası](https://github.com/abdulkadirazm/Veritabani-Yonetim-Sistemleri/tree/main/Posgresql%20%26%20Mongodb%20JDBC%20Ornekleri/ProjectFolder)
-
+* [Postgesql Backup Dosyası](https://github.com/abdulkadirazm/Veritabani-Yonetim-Sistemleri/blob/main/Posgresql%20%26%20Mongodb%20JDBC%20Ornekleri/postgresql_person_backup)
+* Mongodb Insert Dosyası[JSON](https://github.com/abdulkadirazm/Veritabani-Yonetim-Sistemleri/blob/main/Posgresql%20%26%20Mongodb%20JDBC%20Ornekleri/person.json)&[CSV](https://github.com/abdulkadirazm/Veritabani-Yonetim-Sistemleri/blob/main/Posgresql%20%26%20Mongodb%20JDBC%20Ornekleri/person.csv)
